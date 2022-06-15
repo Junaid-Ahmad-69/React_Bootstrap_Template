@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React_Live_project/static/css/main.aabac6ee.css",
+    "main.js": "/React_Live_project/static/js/main.37f996fe.js",
+    "static/media/about.gif": "/React_Live_project/static/media/about.66624c276f752b6ed991.gif",
+    "static/media/home.gif": "/React_Live_project/static/media/home.add6e6624d5730c4b6c4.gif",
+    "static/media/2.jpg": "/React_Live_project/static/media/2.d51d54178e229dc5b13e.jpg",
+    "static/media/3.jpeg": "/React_Live_project/static/media/3.0ffaf9b22a5ce35087af.jpeg",
+    "static/media/1.jpg": "/React_Live_project/static/media/1.a4c9ce5174a2cd0721ca.jpg",
+    "static/media/6.webp": "/React_Live_project/static/media/6.401b811972ee04af04ee.webp",
+    "static/media/4.webp": "/React_Live_project/static/media/4.5f98863895338ac37029.webp",
+    "static/media/5.webp": "/React_Live_project/static/media/5.d5dbdfa8ed1c5a06521f.webp",
+    "index.html": "/React_Live_project/index.html",
+    "main.aabac6ee.css.map": "/React_Live_project/static/css/main.aabac6ee.css.map",
+    "main.37f996fe.js.map": "/React_Live_project/static/js/main.37f996fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aabac6ee.css",
+    "static/js/main.37f996fe.js"
+  ]
+}
